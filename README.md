@@ -5,4 +5,4 @@ O deseafio é fazer do zero e também a custo zero(se possível) uma ferramenta 
 
 stack (Python + Mongo + GCP + Netlify) *Mas pode mudar
 
-status: “in progress”
+status: "in progress"
